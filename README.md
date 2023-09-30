@@ -1,4 +1,4 @@
-# CoderEntregaDS
+# DATA SCIENCE PROJECT
 
 ![alt text][1]
 ![alt text][2]
